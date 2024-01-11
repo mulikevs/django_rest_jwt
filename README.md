@@ -10,7 +10,6 @@ Python Django CRUD API with MySQL and Django Rest Framework
 - File upload support for adding images to blog posts.
 
 ## Installation
-
 1. Make sure you have Python and Django installed on your machine.
 2. Clone the repository:
 ```
